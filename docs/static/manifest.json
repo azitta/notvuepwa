@@ -1,5 +1,5 @@
 {
-  "name": "vuepwa",
+  "name": "notvuepwa",
   "short_name": "vp",
   "icons": [
     {
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/vuepwa/#/",
+  "start_url": "/notvuepwa/#/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87",
